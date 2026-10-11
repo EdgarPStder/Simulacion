@@ -1,0 +1,20 @@
+# Java compilado
+*.class
+out/
+bin/
+
+# NetBeans
+build/
+dist/
+nbproject/private/
+
+# IntelliJ IDEA (se conservan los .iml de cada módulo)
+.idea/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
